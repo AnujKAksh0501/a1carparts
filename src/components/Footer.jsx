@@ -158,14 +158,15 @@ export function Footer() {
         <div className="mb-20 mt-24 flex flex-wrap items-end justify-between gap-x-6 gap-y-4 border-t border-orange-400/10 pt-12">
           <Link href="/" aria-label="Home">
             <p className="font-display text-xl font-semibold tracking-wider text-orange-950">
-              <span className="text-orange-400">E</span>ngines &{' '}
-              <span className="text-orange-400">D</span>rivetrain
+              <span className="text-orange-400">A</span>1&nbsp;
+              <span className="text-orange-400">C</span>ar&nbsp;
+              <span className="text-orange-400">p</span>arts
             </p>
             {/* <Image className="h-12 w-auto" src={logo} alt="Logo" unoptimized /> */}
             {/* <Logo className="h-8" fillOnHover /> */}
           </Link>
           <p className="text-sm text-neutral-700">
-            © Engines & Drivetrain. {new Date().getFullYear()}
+            © A1 Car Parts. {new Date().getFullYear()}
           </p>
         </div>
       </FadeIn>

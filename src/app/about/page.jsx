@@ -36,7 +36,7 @@ function Culture() {
   return (
     <div className="mt-24 rounded-4xl bg-orange-400 py-24 sm:mt-32 lg:mt-40 lg:py-32">
       <SectionIntro
-        eyebrow="Engines & Drivetrain"
+        eyebrow="A1 Car Parts"
         title="Your Source for Quality Used Engines Across the USA"
         invert
       >
@@ -45,7 +45,7 @@ function Culture() {
       <Container className="mt-16">
         <GridList>
           <GridListItem title="Quality" invert>
-            At Engines & Drivetrain, we have been serving customers all over the
+            At A1 Car Parts, we have been serving customers all over the
             USA for over a decade, providing them with top-quality used engines.
             We specialize in offering low mileage engines that are compatible
             with almost every car and truck model available in the market. Our
@@ -62,7 +62,7 @@ function Culture() {
             hassle-free experience.
           </GridListItem>
           <GridListItem title="Warranty" invert>
-            At Engines & Drivetrain, affordability meets reliability. We
+            At A1 Car Parts, affordability meets reliability. We
             understand that purchasing a used engine is a significant
             investment, which is why we offer competitive prices without
             compromising on quality. To provide you with peace of mind, we back

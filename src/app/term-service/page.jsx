@@ -17,7 +17,7 @@ export default function TermService() {
           <FormComponent />
           <div className="mx-auto max-w-xl px-2 sm:px-0 sm:pl-16">
             <h1 className="hidden font-display text-2xl font-semibold tracking-tight text-orange-400 [text-wrap:balance] sm:text-3xl sm:text-orange-950 md:block">
-              Engines and Drivetrain term service.
+              A1 Car Parts term service.
             </h1>
             <div className="flex items-center sm:py-3">
               <div className="mr-2 flex h-12 w-12 items-center  rounded-full bg-white">
@@ -91,7 +91,7 @@ export default function TermService() {
           Term Of Services
         </p>
         <p className="pt-4 font-display text-base">
-          Greetings, and thanks for visiting Engines & Drivetrain Quality Used
+          Greetings, and thanks for visiting A1 Car Parts Quality Used
           Engines! We are very glad you are here. We&apos;re committed to giving
           you high-quality used engines that you can rely on, but before you
           start, we ask that you become aware of the policies that apply when
@@ -214,7 +214,7 @@ export default function TermService() {
           information. However, the world of used engines is vast and
           continuously evolving, and thus, we believe in maintaining
           transparency with our users. While we strive to present the best, we
-          must clarify that Engines & Drivetrain Quality Used Engines disclaims
+          must clarify that A1 Car Parts Quality Used Engines disclaims
           all explicit and implied warranties. These disclaimers cover aspects
           including, but not limited to, merchantability, fitness for a
           particular purpose, and non-infringement of intellectual property.
@@ -247,13 +247,13 @@ export default function TermService() {
           liability. We strive to provide a useful and reliable platform, but
           there may be situations where you need help with using the materials
           on our site or face unforeseen interruptions. We regret any
-          inconvenience this may cause, but Engines & Drivetrain Quality Used
+          inconvenience this may cause, but A1 Car Parts Quality Used
           Engines or our suppliers cannot be held responsible for any resulting
           damages. These damages might include, but aren&apos;t limited to, data
           loss or profit due to business interruption.
         </p>
         <p className="pt-4 font-display text-base">
-          This disclaimer applies even if Engines & Drivetrain Quality Used
+          This disclaimer applies even if A1 Car Parts Quality Used
           Engines or an authorized representative from our side has been
           notified orally or in writing about the potential of such damage. We
           understand that certain jurisdictions do not allow limitations on
@@ -269,7 +269,7 @@ export default function TermService() {
           While we strive to ensure the highest quality, we understand that our
           site occasionally has technical, typographical, or photographic
           errors. In a fast-paced digital world, these occurrences are only
-          partially avoidable. Engines & Drivetrain Quality Used Engines cannot
+          partially avoidable. A1 Car Parts Quality Used Engines cannot
           guarantee that all of our site&apos;s materials will always be
           accurate, complete, or up-to-date. The used engine market is dynamic,
           and information can change rapidly. Thus, we may update or change the

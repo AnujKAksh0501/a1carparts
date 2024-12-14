@@ -138,7 +138,7 @@ function Discover() {
       </TagList>
       <div className="space-y-6 text-base text-orange-600">
         <p>
-          At our Used Engines Inc., we offer a huge inventory of used motors for
+          At our A1 Car Parts, we offer a huge inventory of used motors for
           sale in USA at affordable prices. All of our parts have been carefully
           inspected for leaks and other tests prior to sale and we also provide
           Lifetime Warranty Support and free shipping on all our parts. Our team
@@ -160,7 +160,7 @@ function Build() {
           </strong>
         </p>
         <p>
-          At Used Engines Inc. we have extensive inventory of engines with
+          At A1 Car Parts we have extensive inventory of engines with
           warranty that are carefully inspected & checked by our team of
           technical experts. Before shipping a used engine to your address, our
           team will perform a variety of checks, including:

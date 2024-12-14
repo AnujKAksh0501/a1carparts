@@ -104,14 +104,9 @@ function Header({
           >
             <div className="flex items-center justify-center overflow-hidden py-1">
               <p className="font-display text-xl font-semibold tracking-wider text-orange-950">
-                <span className={invert ? 'text-white' : 'text-orange-400'}>
-                  E
-                </span>
-                ngines &{' '}
-                <span className={invert ? 'text-white' : 'text-orange-400'}>
-                  D
-                </span>
-                rivetrain
+                <span className={invert ? 'text-white' : 'text-orange-400'}>A</span>1&nbsp;
+                <span className={invert ? 'text-white' : 'text-orange-400'}>C</span>ar&nbsp;
+                <span className={invert ? 'text-white' : 'text-orange-400'}>P</span>arts
               </p>
               {/* <Image className="w-full" src={logo} alt="logo" unoptimized /> */}
             </div>

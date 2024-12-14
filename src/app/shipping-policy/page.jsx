@@ -17,7 +17,7 @@ export default function ShippingPolicy() {
           <FormComponent />
           <div className="mx-auto max-w-xl px-2 sm:px-0 sm:pl-16">
             <h1 className="hidden font-display text-2xl font-semibold tracking-tight text-orange-400 [text-wrap:balance] sm:text-3xl sm:text-orange-950 md:block">
-              Engines and Drivetrain shipping policy.
+              A1 Car Parts shipping policy.
             </h1>
             <div className="flex items-center sm:py-3">
               <div className="mr-2 flex h-12 w-12 items-center  rounded-full bg-white">
@@ -91,7 +91,7 @@ export default function ShippingPolicy() {
           Shipping Policy
         </p>
         <p className="pt-4 font-display text-base">
-          Welcome to Engines & Drivetrain, where we bring a world of
+          Welcome to A1 Car Parts, where we bring a world of
           high-quality auto parts right to your doorstep. Our shipping policy is
           designed to provide a seamless delivery experience for all our valued
           customers. Please take a moment to read through this policy to
@@ -159,7 +159,7 @@ export default function ShippingPolicy() {
           experience; your satisfaction is our highest priority.
         </p>
         <p className="pt-4 font-display text-base">
-          Disclaimer: Engines & Drivetrain reserves the right to update this
+          Disclaimer: A1 Car Parts reserves the right to update this
           shipping policy periodically to accommodate changes in our practices
           or services. We strongly recommend our customers to review this policy
           frequently to stay informed about any changes.
@@ -170,7 +170,7 @@ export default function ShippingPolicy() {
           Delivery Timeframe and Process
         </p>
         <p className="pt-4 font-display text-base">
-          At Engines & Drivetrain, we take pride in our efficient order-handling
+          At A1 Car Parts, we take pride in our efficient order-handling
           process. Most products are packed for shipping or sent from our
           warehouses within 24 to 48 hours of your order being verified. This
           swift turnaround helps us get your required auto parts to you as
@@ -204,7 +204,7 @@ export default function ShippingPolicy() {
           have about your delivery. Your understanding and patience in such
           situations are highly appreciated. And as always, we are more than
           happy to help you with any queries about our shipping process or any
-          other aspect of your Engines & Drivetrain experience. We remain
+          other aspect of your A1 Car Parts experience. We remain
           committed to making your shopping journey with us as seamless as
           possible.
         </p>
@@ -286,7 +286,7 @@ export default function ShippingPolicy() {
           Risk of Loss
         </p>
         <p className="pt-4 font-display text-base">
-          All items purchased from Engines & Drivetrain are handled under our
+          All items purchased from A1 Car Parts are handled under our
           shipping terms, which operate on a F.O.B. (Free on Board) shipping
           point basis. This means that the risk of loss and title for each item
           is transferred to you at the shipping point - this transfer occurs
@@ -309,13 +309,13 @@ export default function ShippingPolicy() {
           behalf.
         </p>
         <p className="pt-4 font-display text-base">
-          Engines & Drivetrain, your satisfaction is our priority. Our dedicated
+          A1 Car Parts, your satisfaction is our priority. Our dedicated
           customer service team is always available to assist you with any
           queries or concerns you may have regarding our shipping policies or
           any other aspect of your experience with us.
         </p>
         <p className="pt-4 font-display text-base">
-          Thank you for choosing Engines & Drivetrain for all your auto parts
+          Thank you for choosing A1 Car Parts for all your auto parts
           needs.
         </p>
       </Container>

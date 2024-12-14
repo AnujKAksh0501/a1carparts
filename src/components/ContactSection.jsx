@@ -14,7 +14,7 @@ export function ContactSection() {
         <div className="mx-auto flex max-w-4xl items-center justify-between">
           <div className="max-w-xl">
             <h2 className="font-display text-3xl mb-8 font-medium text-white [text-wrap:balance] sm:text-4xl">
-              Why Swap Engines?
+              Why A1 Car Parts?
             </h2>
             <ul role="list" className={clsx('text-base text-neutral-100')}>
               <li className="group mt-2 first:mt-0">

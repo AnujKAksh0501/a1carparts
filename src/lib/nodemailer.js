@@ -1,8 +1,7 @@
 import nodemailer from "nodemailer";
 
 export const transporter = nodemailer.createTransport({
-    host: 'smtp.hostinger.com',
-    // service: 'hostinger',
+    host: 'smtp-relay.sendinblue.com',
     secure: false,
     secureConnection: false,
     tls: {
@@ -14,12 +13,11 @@ export const transporter = nodemailer.createTransport({
     connectionTimeout: 10000,
     auth: {
         user: 'apptexit@apptexit.com',
-        pass: 'asap@123USA'
+        pass: 'tkEfNC4MmURKxGvY'
     }
 })
 
 export const mailOptions = {
     from: 'apptexit@apptexit.com',
     to: 'admin@apptexit.com',
-    // cc: 'nidhish@iqlect.com'
 }

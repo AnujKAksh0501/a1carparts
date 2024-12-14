@@ -91,7 +91,7 @@ export default function ReturnPolicy() {
           Cancellation Policy
         </p>
         <p className="pt-4 font-display text-base">
-          Engines & Drivetrain knows that the situation may be erratic and that,
+          A1 Car Parts knows that the situation may be erratic and that,
           occasionally, you may need to cancel an order. We&apos;ve got you
           covered, so don&apos;t worry! Before receiving our formal order
           confirmation, you are free to cancel your order anytime.
@@ -120,7 +120,7 @@ export default function ReturnPolicy() {
           Return Policy
         </p>
         <p className="pt-4 font-display text-base">
-          At Engines & Drivetrain, we stake our name on the high caliber of our
+          At A1 Car Parts, we stake our name on the high caliber of our
           goods and services, and we are aware that ensuring client happiness
           necessitates offering a robust and thorough return policy.
         </p>
@@ -142,7 +142,7 @@ export default function ReturnPolicy() {
           not eligible for return.
         </p>
         <p className="pt-4 font-display text-base">
-          Please be aware that Engines & Drivetrain does not accept
+          Please be aware that A1 Car Parts does not accept
           responsibility for any extra expenses incurred due to the installation
           or usage of incorrect or defective parts. This includes any related
           labor costs, installation fees, towing fees, additional repair costs,
@@ -226,7 +226,7 @@ export default function ReturnPolicy() {
           be aware of this possibility.
         </p>
         <p className="pt-4 font-display text-base">
-          Our goal at Engines & Drivetrain is to make every customer experience
+          Our goal at A1 Car Parts is to make every customer experience
           great. Please contact us if you have any more queries or worries
           concerning our return or cancellation policies.
         </p>
